@@ -1,5 +1,5 @@
 # testyard-modules
-x{
+{
 
   "basics": {
     "name": "John Doe",
