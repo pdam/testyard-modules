@@ -1,4 +1,6 @@
 # testyard-modules
+The  basic objective is     to  convert  any   CV of  pdf , DOC , DOCX  , RTF , OODT  to a  Test   Format and then to  construct  Json  classes . along  with that  it  would be   stored   in   Mongodb  for  faster  acccess
+
 ```json
 {
 
